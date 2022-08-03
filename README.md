@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/internet-computer-colorful-l3q2XB76CaWPggiNW" width="100"/>
+</div>
 
 <!--
 **HartPM/HartPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
