@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/l3q2XB76CaWPggiNW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/internet-computer-colorful-l3q2XB76CaWPggiNW">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif" width="480" />
 </div>
 
 <!--
