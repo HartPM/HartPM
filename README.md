@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif" width="480" />
+  <img src="https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif" alt="abstract code art" width="480" />
 </div>
 
 <!--
