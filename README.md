@@ -25,7 +25,7 @@
 <p>-Completed the Flatiron School's Software Engineering bootcamp in July 2022</p>
 <p>-Enjoys running, cyclocross, and many other outdoor activities (former REI employee)</p>
 <p>-Hobby mechanic. Recently transplanted the drivetrain from an E46 M3 into my E46 BMW wagon</p>
-<p>-Dog lover. I have a Great Dane and a Boxer</p>
+<p>-Great Dane and a Boxer dad</p>
 <br><br/>
 
 <h2>:hammer_and_wrench: Languages and Tools</h2>
