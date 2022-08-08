@@ -17,7 +17,7 @@
 
 <h1>About Me</h1>
 <p>-Former commercial photographer turned software engineer</p>
-<p>-Building full-stack applications on a React + Rails base</p>
+<p>-Building full-stack applications on React + Rails</p>
 <p>-Working through Leetcode algorithm and data structure problems in my spare time</p>
 <p>-Completed the Flatiron School's Software Engineering bootcamp in July 2022</p>
 <p>-Enjoys running, cyclocross, and many other outdoor activities (former REI employee)</p>
