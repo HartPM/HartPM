@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Vimeo-blue?style=for-the-badge&logo=vimeo&logoColor=white" alt="Vimeo Badge"/>
   </a>
 </div>
+<br></br>
 
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=HartPM&style=flat-square&color=blue" alt=""/>
