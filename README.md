@@ -23,9 +23,17 @@
 <p>-Enjoys running, cyclocross, and many other outdoor activities (former REI employee)</p>
 <p>-Hobby mechanic. Recently transplanted the drivetrain from an E46 M3 into my E46 BMW wagon</p>
 <p>-Dog lover. I have a Great Dane and a Boxer</p>
+<br><br/>
 
-<h2>Let's connect!</h2>
-<p>Please find my LinkedIn button above</p>
+<h2>:hammer_and_wrench: Languages and Tools</h2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="color:white"/>
+</div>
 
 
 
