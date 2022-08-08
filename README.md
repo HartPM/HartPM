@@ -15,6 +15,17 @@
   <img src="https://komarev.com/ghpvc/?username=HartPM&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h1>About Me</h1>
+<p>-Former commercial photographer turned software engineer</p>
+<p>-Building full-stack applications on a React + Rails base</p>
+<p>-Working through Leetcode algorithm and data structure problems in my spare time</p>
+<p>-Completed the Flatiron School's Software Engineering bootcamp in July 2022</p>
+<p>-Enjoys running, cyclocross, and many other outdoor activities (former REI employee)</p>
+<p>-Hobby mechanic. Recently transplanted the drivetrain from an E46 M3 into my E46 BMW wagon</p>
+<p>-Dog lover. I have a Great Dane and a Boxer</p>
+
+<h2>Let's connect!</h2>
+<p>Please find my LinkedIn button above</p>
 
 
 
