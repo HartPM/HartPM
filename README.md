@@ -20,11 +20,11 @@
 </div>
 
 <h1>About Me</h1>
-<p>-Former commercial photographer turned software engineer</p>
-<p>-Building full-stack applications on React + Rails</p>
+<p>-Software Engineer</p>
+<p>-Volunteer full-stack developer with Nonprofit Circle (React + NestJS in TypeScript)</p>
 <p>-Working through Leetcode algorithm and data structure problems in my spare time</p>
 <p>-Completed the Flatiron School's Software Engineering bootcamp in July 2022</p>
-<p>-Enjoys running, cyclocross, and many other outdoor activities (former REI employee)</p>
+<p>-Former commercial photographer and Digital Tech of 8 years</p>
 <p>-Hobby mechanic. Recently transplanted the drivetrain from an E46 M3 into my E46 BMW wagon</p>
 <p>-Great Dane and a Boxer dad</p>
 <br><br/>
